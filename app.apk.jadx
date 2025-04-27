@@ -1,0 +1,7806 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "app.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "app.apk"
+    ],
+    [
+      "opthalmologic.salicylize",
+      "com",
+      "Source code",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "diamorphosis:Ljava/lang/String;"
+        },
+        "comment": "[ar][az][en][ms][tr][el][es][ca][it][pl][ja][ru]",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "ooblastic:Ljava/lang/String;"
+        },
+        "comment": "\"0\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "brightener:[C"
+        },
+        "comment": "0123456789abcdef",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 12
+        },
+        "comment": "[ar]U2V0dGluZ3M::[az]QXlhcmxhcg::[en]U2V0dGluZ3M::[ms]dGV0YXBhbg::[tr]QXlhcmxhcg::[el]U2V0dGluZ3M::[es]U2V0dGluZ3M::[ca]U2V0dGluZ3M::[it]U2V0dGluZ3M::[pl]U2V0dGluZ3M::[ja]U2V0dGluZ3M::[ru]QXlhcmxhcg::",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 19
+        },
+        "comment": "::",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "Unneapolitan(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 19
+        },
+        "comment": "android.permission.POST_NOTIFICATIONS",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "onRequestPermissionsResult(I[Ljava/lang/String;[I)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 43
+        },
+        "comment": "permistoast",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "onResume()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 112
+        },
+        "comment": "112",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "recalling()Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 29
+        },
+        "comment": "unknown",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "recalling()Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 57
+        },
+        "comment": "!str3.contains(\"goldfish\") \u0026\u0026 !str3.contains(\"ranchu\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "recalling()Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 85
+        },
+        "comment": "!str4.contains(\"Emulator\") \u0026\u0026 !str4.contains(\"Android SDK built for x86\") \u0026\u0026 !MANUFACTURER.contains(\"Genymotion\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 109
+        },
+        "comment": "ntr, aso, fss, ka, acb, onb, onb2, sy, sy2, sy3, btck",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 118
+        },
+        "comment": "false",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 717
+        },
+        "comment": "[ar][az][en][ms][tr][el][es][ca][it][pl][ja][ru]",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 726
+        },
+        "comment": "en",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 741
+        },
+        "comment": "locale",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 751
+        },
+        "comment": "]",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 758
+        },
+        "comment": "[",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 13
+        },
+        "comment": "https://t.me/paperokomozase",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "cabriolet()Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 19
+        },
+        "comment": "samsung",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 38
+        },
+        "comment": "acb",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 45
+        },
+        "comment": "\"false\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 74
+        },
+        "comment": "ull1",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 95
+        },
+        "comment": "ull2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 116
+        },
+        "comment": "ullh",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 137
+        },
+        "comment": "ullp",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 158
+        },
+        "comment": "protect2020_str",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 179
+        },
+        "comment": "protect_str",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 188
+        },
+        "comment": "smsg",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 203
+        },
+        "comment": "settings.get(\"smsg\").contains(\"open\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 212
+        },
+        "comment": "ok",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 234
+        },
+        "comment": "com.android.settings:id/left_button",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 250
+        },
+        "comment": "com.android.settings:id/button1_negative",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 276
+        },
+        "comment": "!settings.get(\"clickk\").contains(\"ok\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 285
+        },
+        "comment": "com.android.settings:id/button2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 297
+        },
+        "comment": "com.android.settings:id/5555",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 309
+        },
+        "comment": "com.android.settings:id/button2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 339
+        },
+        "comment": "settings.get(\"clickk\").contains(\"ok\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 351
+        },
+        "comment": "device",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 355
+        },
+        "comment": "settings.get(\"device\")",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 362
+        },
+        "comment": "\"2\" this is all other phones except Huawei, xiaomi, pixel, lg, oppo cph",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 373
+        },
+        "comment": "android:id/button1",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 381
+        },
+        "comment": "true",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 406
+        },
+        "comment": "!settings.get(\"smsg\").contains(\"open\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 410
+        },
+        "comment": "Q",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 419
+        },
+        "comment": "com.android.settings:id/button1",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 442
+        },
+        "comment": "GESTURE_SWIPE_DOWN_AND_RIGHT",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 447
+        },
+        "comment": "Tiramisu",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 460
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 468
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 474
+        },
+        "comment": "Q",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 499
+        },
+        "comment": "P",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 524
+        },
+        "comment": "O",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 557
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 565
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 581
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 589
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 618
+        },
+        "comment": "settings.get(\"fss\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 625
+        },
+        "comment": "5",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 650
+        },
+        "comment": "settings.get(\"btck\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 663
+        },
+        "comment": "settings.write(\"btck\", \"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 707
+        },
+        "comment": "fss \u003d true",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 721
+        },
+        "comment": "aso \u003d true",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 735
+        },
+        "comment": "accs \u003d true",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 749
+        },
+        "comment": "ka \u003d true",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 764
+        },
+        "comment": "4\nif (!Xiaomi || !OPPO/CPH)",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 787
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 791
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 806
+        },
+        "comment": "cdm",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 835
+        },
+        "comment": "if (settings.get(\"sy\").contains(\"false\") \u0026\u0026 settings.get(\"onb\").contains(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 864
+        },
+        "comment": "invisible",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 874
+        },
+        "comment": "settings.write(\"onb\", )",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 887
+        },
+        "comment": "settings.write(\"onb\", \"ok\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 912
+        },
+        "comment": "settings.write(\"cdm\", \"reee\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 943
+        },
+        "comment": "if (settings.get(\"cdm2\").contains(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 960
+        },
+        "comment": "if (settings.get(\"sy2\").contains(\"false\") \u0026\u0026 settings.get(\"onb2\").contains(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 993
+        },
+        "comment": "settings.write(\"onb2\", )",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1029
+        },
+        "comment": "if (settings.get(\"cdm2\").contains(\"false\"))",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1045
+        },
+        "comment": "settings.write(\"cdm2\", \"reee\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1072
+        },
+        "comment": "if (settings.get(\"locker\").contains(\"true\"))",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1079
+        },
+        "comment": "1",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1093
+        },
+        "comment": "GESTURE_SWIPE_DOWN_AND_UP",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1107
+        },
+        "comment": "settings.write(\"pl\", \"1\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1111
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1115
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1129
+        },
+        "comment": "settings.write(\"pl\", \"1\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1142
+        },
+        "comment": "PIN_",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1186
+        },
+        "comment": "P:",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1249
+        },
+        "comment": "dsd",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1262
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1270
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1282
+        },
+        "comment": "wc",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1319
+        },
+        "comment": "accessibility",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1326
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1343
+        },
+        "comment": "!settings.get(\"wc\").contains(\"true\") \u0026\u0026 settings.get(\"rbt\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1377
+        },
+        "comment": "is",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1446
+        },
+        "comment": "settings.get(\"restart\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1492
+        },
+        "comment": "settings.get(\"protect_ok\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1499
+        },
+        "comment": "protect",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1506
+        },
+        "comment": "com.android.vending",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1510
+        },
+        "comment": "if (protect is OK)",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1537
+        },
+        "comment": "android:id/title",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1581
+        },
+        "comment": "settings.get(\"protect\").contains(\"true\") \u0026\u0026 settings.get(\"protect2\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1608
+        },
+        "comment": "click",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1622
+        },
+        "comment": "protect2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1636
+        },
+        "comment": "protect3",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1678
+        },
+        "comment": "settings.get(\"acb\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1720
+        },
+        "comment": "com.miui.powerkeeper",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1729
+        },
+        "comment": "android:id/summary",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1765
+        },
+        "comment": "if (!CheckedTextView)",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1821
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1888
+        },
+        "comment": "if (device is OPPO/CPH)",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1909
+        },
+        "comment": "com.android.settings",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1934
+        },
+        "comment": "dialog",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 1996
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2073
+        },
+        "comment": "3\nif (device not LG)",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2135
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2156
+        },
+        "comment": "if (device is Pixel)",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2260
+        },
+        "comment": "com.android.packageinstaller.permission.ui.grantpermissionsactivity",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2281
+        },
+        "comment": "settings.get(\"boa\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2341
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2369
+        },
+        "comment": "com.android.packageinstaller.permission.ui.grantpermissionsactivity",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2431
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2457
+        },
+        "comment": "settings.get(\"boa\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2517
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2582
+        },
+        "comment": "ACTION_CLICK",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2629
+        },
+        "comment": "settings.get(\"protect_ok\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2724
+        },
+        "comment": "if (device \u003d\u003d OPPO/CPH)  4",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2794
+        },
+        "comment": "if (device \u003d\u003d Pixel)",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 2941
+        },
+        "comment": "if (device \u003d\u003d LG)   3",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3017
+        },
+        "comment": "if (device \u003d\u003d Huawei)   0",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3063
+        },
+        "comment": "Click",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3097
+        },
+        "comment": "settings.get(\"rbt\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3106
+        },
+        "comment": "{line}",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3113
+        },
+        "comment": "|Time:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3120
+        },
+        "comment": "Package:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3124
+        },
+        "comment": "line with DMV--- |[(CLICKED)]",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3197
+        },
+        "comment": "apps",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3244
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3248
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3263
+        },
+        "comment": "resetphone",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3310
+        },
+        "comment": "back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3314
+        },
+        "comment": "home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 10
+        },
+        "comment": "window",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 37
+        },
+        "comment": "sy",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 44
+        },
+        "comment": "\"false\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 62
+        },
+        "comment": "sy2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 18
+        },
+        "comment": "settings.write(\"smsg\", \"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$2",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 18
+        },
+        "comment": "settings.write(\"smsg\", \"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$2",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 26
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$2",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 34
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$3",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 18
+        },
+        "comment": "settings.write(\"smsg\", \"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$3",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 26
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$3",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 34
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 9
+        },
+        "comment": "android.intent.action.MAIN",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 42
+        },
+        "comment": "intent.setClassName(settings.get(\"package\"), settings.get(\"packagestp\"))",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 64
+        },
+        "comment": "putExtra(\"drop\", \"ok\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 5
+        },
+        "comment": "click back btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 13
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 5
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 5
+        },
+        "comment": "click home btn",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "o(Ljava/lang/Class;)Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 11
+        },
+        "comment": "activity",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 74
+        },
+        "comment": "text1",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 98
+        },
+        "comment": "text2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 122
+        },
+        "comment": "text3",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 146
+        },
+        "comment": "text4",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": ":settings:show_fragment_args",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 10
+        },
+        "comment": ":settings:fragment_args_key",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 23
+        },
+        "comment": "com.samsung.accessibility.installed_service",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 52
+        },
+        "comment": "android.settings.ACCESSIBILITY_SETTINGS",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 60
+        },
+        "comment": "packageName / className",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 205
+        },
+        "comment": "toast\n(\n)",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "NGC(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 33
+        },
+        "comment": "ick\ntrue",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "NGC(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 73
+        },
+        "comment": "min, z.php",
+        "style": "JAVADOC"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "esthiomenus(Ljava/lang/String;Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 56
+        },
+        "comment": "header\u003dUser-Agent-Mozilla/5.0 (Linux; Android 10; SM-J610F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Safari/537.36",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "esthiomenus(Ljava/lang/String;Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 91
+        },
+        "comment": "\u003cmeta property\u003d\\\"og:description\\\" content\u003d\\\"(.*?)\\\"\u003e",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "esthiomenus(Ljava/lang/String;Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 117
+        },
+        "comment": "min",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "flatcaps(Ljava/lang/String;Ljavax/crypto/spec/SecretKeySpec;Ljavax/crypto/Cipher;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 22
+        },
+        "comment": "abcdefgh",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "heapstead(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 31
+        },
+        "comment": "ABC",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "marcatissimo(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 8
+        },
+        "comment": "app",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "monitorially(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 8
+        },
+        "comment": "app",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "alt",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 10
+        },
+        "comment": "sim",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 17
+        },
+        "comment": "ky",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 55
+        },
+        "comment": "tg,\ntag",
+        "style": "JAVADOC"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 76
+        },
+        "comment": "cy, locale",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 97
+        },
+        "comment": "model,smm",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 138
+        },
+        "comment": "eys",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 159
+        },
+        "comment": "rpn, psv",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 199
+        },
+        "comment": "min\nz.php",
+        "style": "JAVADOC"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "unimpounded(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 34
+        },
+        "comment": "msg",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "unimpounded(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 51
+        },
+        "comment": "nbr, true",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "unimpounded(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 61
+        },
+        "comment": "pg",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "unimpounded(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 101
+        },
+        "comment": "min\nz.php",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Andelee(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 22
+        },
+        "comment": "accs, true\nsettings.get(\"accs\").contains(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Andelee(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 31
+        },
+        "comment": "https://t.me/paperokomozase",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Andelee(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 49
+        },
+        "comment": "1",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Andelee(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 59
+        },
+        "comment": "0",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Andelee(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 95
+        },
+        "comment": "procheck.contains(\"ok\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Hellenophile(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 14
+        },
+        "comment": "procheck.put(\"ok\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 130
+        },
+        "comment": "OPPO, CPH",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 149
+        },
+        "comment": "\"2\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 157
+        },
+        "comment": "\"4\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "comment": "0 Huawei\n1 Pixel\n2 All Others\n3 LG\n4 OPPO, CPH\n5 Xiaomi",
+        "style": "JAVADOC"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 40
+        },
+        "comment": "HUAWEI",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 45
+        },
+        "comment": "\"0\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 61
+        },
+        "comment": "Pixel",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 66
+        },
+        "comment": "\"1\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 88
+        },
+        "comment": "\"LG\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 93
+        },
+        "comment": "\"3\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 109
+        },
+        "comment": "Xiaomi",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 114
+        },
+        "comment": "\"5\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 168
+        },
+        "comment": "device",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "docoglossan(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "\"notification\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "docoglossan(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 10
+        },
+        "comment": "\"2\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "docoglossan(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 133
+        },
+        "comment": "setCategory(\"msg\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "hipmi(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "ntr",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "hipmi(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 22
+        },
+        "comment": "settings.get(\"ntr\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "hipmi(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 31
+        },
+        "comment": "settings.write(\"ntr\", \"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "isoquercitrin(Landroid/content/Context;)Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 13
+        },
+        "comment": "keyguard",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "isoquercitrin(Landroid/content/Context;)Z"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 28
+        },
+        "comment": "power",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "nonacceleration(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 11
+        },
+        "comment": "c.contains(\"open\")",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "onDestroy()V"
+        },
+        "comment": "When this service is destroyed a broadcast is sent to the BroadcastReceiver which restarts this service",
+        "style": "JAVADOC"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "onDestroy()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 36
+        },
+        "comment": "kill\ncom.opthalmologic.salicylize.magnetotelephone",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "onStartCommand(Landroid/content/Intent;II)I"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 16
+        },
+        "comment": "android.settings.SETTINGS",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "onStartCommand(Landroid/content/Intent;II)I"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 65
+        },
+        "comment": "notification",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scamillus(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 14
+        },
+        "comment": "android.intent.action.MAIN",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scamillus(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 24
+        },
+        "comment": "category \u003d android.intent.category.LAUNCHER",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scamillus(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 61
+        },
+        "comment": "|||",
+        "style": "JAVADOC"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scamillus(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 104
+        },
+        "comment": "settings.write(\"alt\",\"taskAffinity|||\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 33
+        },
+        "comment": "power",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 89
+        },
+        "comment": "device, 4      device_setting.equals(\"4\")\nif device \u003d\u003d OPPO or CPH",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 150
+        },
+        "comment": "oph, false\nsettings.get(\"oph\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "com.google.android.gms",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 26
+        },
+        "comment": "false",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 48
+        },
+        "comment": "access_protect, true",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 60
+        },
+        "comment": "protect",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 72
+        },
+        "comment": "protect2",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 84
+        },
+        "comment": "protect_ok",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 111
+        },
+        "comment": ".security.settings.VerifyAppsSettingsActivity",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 127
+        },
+        "comment": "com.google.android.gms.security.settings.VerifyAppsSettingsActivity",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 145
+        },
+        "comment": "settings.put(protect_allow, \"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$4$1",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 36
+        },
+        "comment": "protect_ok.put(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$4$1",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 44
+        },
+        "comment": "go back",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$4$1",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 51
+        },
+        "comment": "go back",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$4$1",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 59
+        },
+        "comment": "go home",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 18
+        },
+        "comment": "power",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 39
+        },
+        "comment": "android.settings.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 74
+        },
+        "comment": "package:",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$5",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 106
+        },
+        "comment": "acb.write(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "smsg",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 24
+        },
+        "comment": "settings.get(\"smsg\").contains(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 49
+        },
+        "comment": "settings.get(\"smsg\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 63
+        },
+        "comment": "android.settings.APPLICATION_DETAILS_SETTINGS",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 73
+        },
+        "comment": "android.intent.category.DEFAULT",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 87
+        },
+        "comment": "package:com.android.vending",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 119
+        },
+        "comment": "settings.write(\"smsg\", \"open)",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "\"true\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 10
+        },
+        "comment": "started",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 17
+        },
+        "comment": "count",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 38
+        },
+        "comment": "settings.get(\"started\").contains(\"default\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 80
+        },
+        "comment": "keyguardNotRestricted AND screenNotLocked AND settings.get(\"fss\").contains(\"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 125
+        },
+        "comment": "settings.get(\"device).equals(\"2\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 24
+        },
+        "comment": "settings.get(\"opi\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 35
+        },
+        "comment": "settings.get(\"opo\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 42
+        },
+        "comment": "\"true\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 73
+        },
+        "comment": "settings.put(\"oph\", \"true\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 118
+        },
+        "comment": "putExtra(str: ALL_PIN) putExtra(id: \"1500\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$9",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 3
+        },
+        "comment": "\"false\"",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$9",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 24
+        },
+        "comment": "settings.get(\"aso\").contains(\"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$9",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 53
+        },
+        "comment": "settings.write(\"ntr\", \"false\")",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "holderon(Landroid/content/Context;Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 115
+        },
+        "comment": "header\u003dContent-Type:text/plain; charset\u003dutf-8\nheader\u003dConnection:close",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.quinanisole",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 8
+        },
+        "comment": "titlex, messagex, aox",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.quinanisole$1",
+          "shortId": "onClick(Landroid/content/DialogInterface;I)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 56
+        },
+        "comment": "android.intent.action.VIEW, http://play.google.com/store/apps/details?id\u003d, forwading",
+        "style": "BLOCK"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.quinanisole$1",
+          "shortId": "onClick(Landroid/content/DialogInterface;I)V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 71
+        },
+        "comment": "com.android.chrome",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "\u003cinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 19
+        },
+        "comment": "fedcba9876543210",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "\u003cinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 24
+        },
+        "comment": "0123456789abcdef",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "\u003cinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 44
+        },
+        "comment": "AES",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "\u003cinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 57
+        },
+        "comment": "AES/CBC/NoPadding",
+        "style": "LINE"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "woibe(Ljava/lang/String;)[B"
+        },
+        "codeRef": {
+          "attachType": "INSN",
+          "index": 49
+        },
+        "comment": "Empty string",
+        "style": "LINE"
+      }
+    ],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.R"
+        },
+        "newName": "Constants"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.awfullooking"
+        },
+        "newName": "LaunchActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.cylindricality"
+        },
+        "newName": "MyAccessibilityService"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.deprehend"
+        },
+        "newName": "RequestAccessibilityServicesActivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.dormancies"
+        },
+        "newName": "MyWebSocketListener"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.encyst"
+        },
+        "newName": "NetworkUtils"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.idololater"
+        },
+        "newName": "StringUtils"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.inspirited"
+        },
+        "newName": "MaliciousService"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox"
+        },
+        "newName": "NetworkRequests"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.magnetotelephone"
+        },
+        "newName": "StartForegroundServiceReceiver"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.quinanisole"
+        },
+        "newName": "NavigateToPlayStoreListingDialog"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism"
+        },
+        "newName": "CryptoUtils"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "Allahabad:Ljava/lang/String;"
+        },
+        "newName": "currentLang"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Bantam:Landroid/view/View;"
+        },
+        "newName": "view"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Charybdian:Landroid/accessibilityservice/GestureDescription$Builder;"
+        },
+        "newName": "gestDescBuilder"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Chesnee:Landroid/accessibilityservice/GestureDescription$Builder;"
+        },
+        "newName": "gestDescBuilder2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Eurygaea:Ljava/util/Timer;"
+        },
+        "newName": "timer"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Finchville:Landroid/view/View;"
+        },
+        "newName": "view2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Lophura:Lcom/opthalmologic/salicylize/cylindricality;"
+        },
+        "newName": "myAccessService"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Naamann:Landroid/accessibilityservice/GestureDescription$Builder;"
+        },
+        "newName": "gestDescBuilder3"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Peever:Landroid/widget/ImageView;"
+        },
+        "newName": "imageView"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "allpitying:Landroid/view/WindowManager;"
+        },
+        "newName": "windowManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "cenacles:Ljava/util/TimerTask;"
+        },
+        "newName": "timerTask"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "cosmopolitanised:Landroid/widget/FrameLayout;"
+        },
+        "newName": "frameLayout"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "digamy:Landroid/graphics/Path;"
+        },
+        "newName": "path"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "economizer:Ljava/util/TimerTask;"
+        },
+        "newName": "timerTask2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "eliminator:Lcom/opthalmologic/salicylize/cylindricality$GestureCallback;"
+        },
+        "newName": "gestureCallback"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "hypsodont:Landroid/view/WindowManager;"
+        },
+        "newName": "windowManager1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "intrudes:Landroid/accessibilityservice/GestureDescription$StrokeDescription;"
+        },
+        "newName": "gestDescStrokeDesc"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "massacrers:Landroid/accessibilityservice/GestureDescription$StrokeDescription;"
+        },
+        "newName": "gestDescStrokeDesc2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "micronesians:Ljava/lang/String;"
+        },
+        "newName": "dateTimeInst"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "organoleptic:Ljava/lang/Object;"
+        },
+        "newName": "windowManager2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "overdraught:Landroid/widget/FrameLayout;"
+        },
+        "newName": "frameLayout1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "overthickly:Landroid/os/Bundle;"
+        },
+        "newName": "bundle"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "pander:Landroid/os/PowerManager$WakeLock;"
+        },
+        "newName": "wakeLock"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "preconnection:Landroid/view/WindowManager;"
+        },
+        "newName": "windowManager3"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "ryes:Landroid/accessibilityservice/GestureDescription$StrokeDescription;"
+        },
+        "newName": "gestDescStrokeDesc4"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "sabalote:Landroid/accessibilityservice/GestureDescription$Builder;"
+        },
+        "newName": "gestDescBuilder5"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "sclerodermitic:Landroid/accessibilityservice/GestureDescription$StrokeDescription;"
+        },
+        "newName": "gestDescStrokeDesc5"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "sharing:Landroid/graphics/Path;"
+        },
+        "newName": "path1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "softwares:Landroid/graphics/Path;"
+        },
+        "newName": "path2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "stean:Landroid/graphics/Path;"
+        },
+        "newName": "path3"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "swiftian:Landroid/widget/ImageView;"
+        },
+        "newName": "imageView2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "tencoupled:Landroid/os/Bundle;"
+        },
+        "newName": "bundle1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "wetblanketing:Landroid/view/View;"
+        },
+        "newName": "view3"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "Repub:Landroid/widget/TextView;"
+        },
+        "newName": "textView4"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "ducatus:Landroid/widget/ImageView;"
+        },
+        "newName": "imageView"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "fission:Landroid/widget/TextView;"
+        },
+        "newName": "textView2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "semiclause:Landroid/widget/Button;"
+        },
+        "newName": "btn"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "supersalesmanship:Landroid/widget/TextView;"
+        },
+        "newName": "textView1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "tetanise:Landroid/widget/TextView;"
+        },
+        "newName": "textView3"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.dormancies",
+          "shortId": "babblement:Landroid/content/Context;"
+        },
+        "newName": "context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "annabergite:[B"
+        },
+        "newName": "byteArr"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "electroendosmotic:Ljava/lang/String;"
+        },
+        "newName": "str_abcdefgh"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "babblement:Landroid/content/Context;"
+        },
+        "newName": "context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "beery:Landroid/app/NotificationChannel;"
+        },
+        "newName": "notifChannel"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "chonolith:Landroid/os/PowerManager;"
+        },
+        "newName": "powerManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "doodle:Landroidx/core/app/NotificationManagerCompat;"
+        },
+        "newName": "notifManagerCompat"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "entapophysis:Z"
+        },
+        "newName": "inKeyguardRestrictedMode"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "fraiser:Landroid/app/KeyguardManager;"
+        },
+        "newName": "keyguardManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "ninepegs:Landroid/os/PowerManager$WakeLock;"
+        },
+        "newName": "wakeLock"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "ooblastic:Ljava/lang/String;"
+        },
+        "newName": "str_FLAG_keyguardIsNOTRestrictedANDScreenNOTLocked"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "playboys:Ljava/util/TimerTask;"
+        },
+        "newName": "timerTask"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scathe:Landroid/os/PowerManager;"
+        },
+        "newName": "privPowerManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "spokeswomen:Ljava/util/concurrent/ScheduledExecutorService;"
+        },
+        "newName": "scheduledExecService"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "tylosins:Landroid/app/Notification;"
+        },
+        "newName": "notification"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "visibleness:Ljava/lang/String;"
+        },
+        "newName": "className"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "workup:Ljava/util/TimerTask;"
+        },
+        "newName": "timerTask1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "Unanglican:Lokhttp3/Request;"
+        },
+        "newName": "request"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "ergo:Lokhttp3/OkHttpClient;"
+        },
+        "newName": "httpClient"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "multipointed:Lokhttp3/RequestBody;"
+        },
+        "newName": "requestBody"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "topkick:Lokhttp3/FormBody$Builder;"
+        },
+        "newName": "builder"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.quinanisole",
+          "shortId": "Demiatlas:Landroid/app/AlertDialog;"
+        },
+        "newName": "alertDialog"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.quinanisole",
+          "shortId": "brambling:Landroid/app/AlertDialog$Builder;"
+        },
+        "newName": "dialogBuilder"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "LOSF:Ljavax/crypto/spec/SecretKeySpec;"
+        },
+        "newName": "sKeySpec"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "brightener:[C"
+        },
+        "newName": "charArr0123456789abcdef"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "illustrators:Ljavax/crypto/spec/IvParameterSpec;"
+        },
+        "newName": "ivParamSpec"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "makedo:Ljava/lang/String;"
+        },
+        "newName": "str_fedcba9876543210"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "rurban:Ljavax/crypto/Cipher;"
+        },
+        "newName": "cipher"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "str"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "\u003cclinit\u003e()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "str_coloncolon"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "Unneapolitan(Landroid/app/Activity;)V"
+        },
+        "newName": "requestNotificationsPermission"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131073
+        },
+        "newName": "str_package"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "onCreate(Landroid/os/Bundle;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131075
+        },
+        "newName": "str_packagestp"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "recalling()Z"
+        },
+        "newName": "isEmulator"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "recalling()Z"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "str_generic"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "recalling()Z"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65547
+        },
+        "newName": "str_google_sdk"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "setting_ky"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 9
+        },
+        "newName": "strArr"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131073
+        },
+        "newName": "str_ky"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196609
+        },
+        "newName": "str_again"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262145
+        },
+        "newName": "str_accs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 327681
+        },
+        "newName": "str_true"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458817
+        },
+        "newName": "language"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 589827
+        },
+        "newName": "str_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 655367
+        },
+        "newName": "str_closeBracket"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 720899
+        },
+        "newName": "str_openBracket"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1179648
+        },
+        "newName": "activity"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "Uxmal()Lcom/opthalmologic/salicylize/cylindricality;"
+        },
+        "newName": "getMyAccessibilityService"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "cabriolet()Z"
+        },
+        "newName": "isSamsung"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131073
+        },
+        "newName": "accessNodeInfoCompat"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196611
+        },
+        "newName": "setting_acb"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196619
+        },
+        "newName": "listOfAccessNodeInfoCompat"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196637
+        },
+        "newName": "str_device_num"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196638
+        },
+        "newName": "isAllOtherPhones"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196641
+        },
+        "newName": "isFSS_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196662
+        },
+        "newName": "bool_locker_equals_true"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196676
+        },
+        "newName": "isProtectNOTOk"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196682
+        },
+        "newName": "bool_isXiaomiDevice"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196771
+        },
+        "newName": "huawei_nodes_list"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196847
+        },
+        "newName": "setting_is"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196916
+        },
+        "newName": "buildVersionSDKInt"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262148
+        },
+        "newName": "str_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262151
+        },
+        "newName": "str_brace_line_brace"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 327681
+        },
+        "newName": "str_smsg"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 327685
+        },
+        "newName": "str_5_xiaomi"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 327727
+        },
+        "newName": "str_pipe_Time_colon"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 393220
+        },
+        "newName": "str_cdm"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458753
+        },
+        "newName": "str_ok"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458763
+        },
+        "newName": "str_1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 458802
+        },
+        "newName": "str_Package"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 524290
+        },
+        "newName": "str_wc"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 589831
+        },
+        "newName": "str_protect"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 655369
+        },
+        "newName": "str_device"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 720899
+        },
+        "newName": "str_all_others_phones"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 786433
+        },
+        "newName": "str_button1_id"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 851979
+        },
+        "newName": "listOfAccessInfoCompat2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 917506
+        },
+        "newName": "str_com_android_vending"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 983041
+        },
+        "newName": "str_true"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onAccessibilityEvent(Landroid/view/accessibility/AccessibilityEvent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 983043
+        },
+        "newName": "str_aox"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 2
+        },
+        "newName": "windowService"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65541
+        },
+        "newName": "str_sy"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.cylindricality",
+          "shortId": "onCreate()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131073
+        },
+        "newName": "str_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend",
+          "shortId": "o(Ljava/lang/Class;)Z"
+        },
+        "newName": "isActivityRunning"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_settings_show_frag_args"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.deprehend$1",
+          "shortId": "onClick(Landroid/view/View;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "str_settings_frag_args_key"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "NGC(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_ky"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "Vardar(I)Ljava/lang/String;"
+        },
+        "newName": "getRandomAlphaNumeric"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "Vardar(I)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_0123456789_abcdefghijklmpqrstuvyz"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "esthiomenus(Ljava/lang/String;Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196614
+        },
+        "newName": "body"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "esthiomenus(Ljava/lang/String;Landroid/content/Context;)V"
+        },
+        "newName": "makeRequest"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "flatcaps(Ljava/lang/String;Ljavax/crypto/spec/SecretKeySpec;Ljavax/crypto/Cipher;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "byteArr"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "flatcaps(Ljava/lang/String;Ljavax/crypto/spec/SecretKeySpec;Ljavax/crypto/Cipher;)Ljava/lang/String;"
+        },
+        "newName": "decrypt2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "heapstead(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "decrypt1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "heapstead(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_Blowfish"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "marcatissimo(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "newName": "writeToSharedPrefs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "monitorially(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "readFromSharePrefs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "prelusively(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "base64Decode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_alt"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "str_sim"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "stentorphone(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131073
+        },
+        "newName": "str_ky"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "thorncrowned(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "scrambleText"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "unimpounded(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_ky"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.encyst",
+          "shortId": "unnewly(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "base64Encode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.idololater",
+          "shortId": "prewrapped(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "decrypt"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "Hellenophile(Landroid/content/Context;)V"
+        },
+        "newName": "startHandlerToCheckSafetyNetVerification"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_manufacturer_blankspace_model"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "blueprints(Landroid/content/Context;)V"
+        },
+        "newName": "writeDeviceSettingToPrefs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "dapifer(Landroid/content/Context;)V"
+        },
+        "newName": "handleVerifyAppNotEnabled"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "docoglossan(Landroid/content/Context;)V"
+        },
+        "newName": "showMaliciousNotification"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "docoglossan(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_notification"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "docoglossan(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "str_2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "hipmi(Landroid/content/Context;)V"
+        },
+        "newName": "showMaliciousNotificationRepeatingUntil"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "hipmi(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_ntr"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "imbroglio(Landroid/content/Context;)V"
+        },
+        "newName": "showThisAppDetailsSettings"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "isoquercitrin(Landroid/content/Context;)Z"
+        },
+        "newName": "isKeyguardRestrictedInputORScreenLocked"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "nonacceleration(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "newName": "stopAccessibilityServiceIfCondition"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "onStartCommand(Landroid/content/Intent;II)I"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "onStartCommand(Landroid/content/Intent;II)I"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262149
+        },
+        "newName": "notifManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "pulloff(Landroid/content/Context;)V"
+        },
+        "newName": "startIgnoreBatteryOptimizationsANDnavigateToPlayStoreListing"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scamillus(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262145
+        },
+        "newName": "taskAffinity"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "scamillus(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "newName": "writeAllAppsLaunchActivityToSharedPrefs"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited",
+          "shortId": "valuta(Landroid/content/Context;)V"
+        },
+        "newName": "checkSafetyNetVerify"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_opc"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 7
+        },
+        "newName": "powerManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$1",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 8
+        },
+        "newName": "wakeLock"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_com_google_android_gms"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$2",
+          "shortId": "onComplete(Lcom/google/android/gms/tasks/Task;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196609
+        },
+        "newName": "str_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$6",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_smsg"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_true"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "str_started"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$7",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131073
+        },
+        "newName": "str_count"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 4
+        },
+        "newName": "setting_opo"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$8",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65543
+        },
+        "newName": "str_true"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.inspirited$9",
+          "shortId": "run()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "holderon(Landroid/content/Context;Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 9
+        },
+        "newName": "builder"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "holderon(Landroid/content/Context;Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "newName": "makeRequest"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox",
+          "shortId": "holderon(Landroid/content/Context;Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 17
+        },
+        "newName": "request"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox$1",
+          "shortId": "onResponse(Lokhttp3/Call;Lokhttp3/Response;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 1
+        },
+        "newName": "str_cn"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.jackinthebox$1",
+          "shortId": "onResponse(Lokhttp3/Call;Lokhttp3/Response;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65538
+        },
+        "newName": "body"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "freesilver([B)Ljava/lang/String;"
+        },
+        "newName": "aaaa"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "pretire(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "bbbb"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.sacerdotalism",
+          "shortId": "woibe(Ljava/lang/String;)[B"
+        },
+        "newName": "encrypt"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 1883,
+      "view": {
+        "x": 0,
+        "y": 405
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.awfullooking",
+      "subPath": "java",
+      "caret": 55890,
+      "view": {
+        "x": 6,
+        "y": 8418
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.idololater",
+      "subPath": "java",
+      "caret": 384,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.deprehend",
+      "subPath": "java",
+      "caret": 4784,
+      "view": {
+        "x": 0,
+        "y": 622
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.inspirited",
+      "subPath": "java",
+      "caret": 1483,
+      "view": {
+        "x": 0,
+        "y": 154
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    }
+  ],
+  "cacheDir": "/Users/mango_burrito/Library/Caches/io.github.skylot.jadx/projects/app-dfcd80826a46fef745816fbb075ebacc",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "d059YO7TgM8A/iUPVdUxjfECXsJTMBhde84q7MaovwU\u003d",
+    "StringUtils",
+    "magnetotelephone"
+  ],
+  "pluginOptions": {}
+}
