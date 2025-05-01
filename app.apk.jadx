@@ -5413,6 +5413,125 @@
       "res",
       "Resources",
       "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
     ]
   ],
   "codeData": {
@@ -13442,6 +13561,14 @@
       {
         "nodeRef": {
           "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.awfullooking",
+          "shortId": "shedevil(Landroid/app/Activity;)V"
+        },
+        "newName": "writeSettingsToPrefsThenRequestAccessService"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
           "declClass": "com.opthalmologic.salicylize.cylindricality",
           "shortId": "Afton(Landroid/view/accessibility/AccessibilityNodeInfo;)Ljava/lang/String;"
         },
@@ -15199,6 +15326,14 @@
         "nodeRef": {
           "refType": "METHOD",
           "declClass": "com.opthalmologic.salicylize.unrectified",
+          "shortId": "epistemophilia()V"
+        },
+        "newName": "clickBackHomeTaskManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.opthalmologic.salicylize.unrectified",
           "shortId": "spermatoplasmic()V"
         },
         "newName": "openPowerLongPressDialog"
@@ -15207,125 +15342,13 @@
   },
   "openTabs": [
     {
-      "type": "resource",
-      "tabPath": "AndroidManifest.xml",
-      "subPath": "",
-      "caret": 1883,
-      "view": {
-        "x": 0,
-        "y": 405
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
       "type": "class",
       "tabPath": "com.opthalmologic.salicylize.awfullooking",
       "subPath": "java",
-      "caret": 64485,
+      "caret": 30615,
       "view": {
         "x": 0,
-        "y": 11992
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.opthalmologic.salicylize.idololater",
-      "subPath": "java",
-      "caret": 384,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.opthalmologic.salicylize.deprehend",
-      "subPath": "java",
-      "caret": 4577,
-      "view": {
-        "x": 2,
-        "y": 1147
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.opthalmologic.salicylize.inspirited",
-      "subPath": "java",
-      "caret": 21200,
-      "view": {
-        "x": 6,
-        "y": 5455
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.opthalmologic.salicylize.unrectified",
-      "subPath": "java",
-      "caret": 8933,
-      "view": {
-        "x": 5,
-        "y": 2621
-      },
-      "active": true,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.opthalmologic.salicylize.cylindricality",
-      "subPath": "java",
-      "caret": 84661,
-      "view": {
-        "x": 0,
-        "y": 22234
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "com.opthalmologic.salicylize.encyst",
-      "subPath": "java",
-      "caret": 1195,
-      "view": {
-        "x": 0,
-        "y": 0
-      },
-      "active": false,
-      "pinned": false,
-      "bookmarked": false,
-      "hidden": false
-    },
-    {
-      "type": "class",
-      "tabPath": "androidx.core.view.accessibility.AccessibilityNodeInfoCompat",
-      "subPath": "java",
-      "caret": 23646,
-      "view": {
-        "x": 6,
-        "y": 7150
+        "y": 4131
       },
       "active": false,
       "pinned": false,
@@ -15336,7 +15359,21 @@
       "type": "class",
       "tabPath": "com.opthalmologic.salicylize.superfunctional",
       "subPath": "java",
-      "caret": 669,
+      "caret": 560,
+      "view": {
+        "x": 0,
+        "y": 1342
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.quinanisole",
+      "subPath": "java",
+      "caret": 467,
       "view": {
         "x": 0,
         "y": 0
@@ -15345,11 +15382,43 @@
       "pinned": false,
       "bookmarked": false,
       "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.jackinthebox",
+      "subPath": "java",
+      "caret": 535,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.encyst",
+      "subPath": "java",
+      "caret": 8718,
+      "view": {
+        "x": 0,
+        "y": 381
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
     }
   ],
   "cacheDir": "/Users/mango_burrito/Library/Caches/io.github.skylot.jadx/projects/app-dfcd80826a46fef745816fbb075ebacc",
   "enableLiveReload": false,
   "searchHistory": [
+    "setComponentEnabledSetting",
+    "ClassLoader",
+    "quinanisole",
+    "smm",
     "Huawei",
     "d059YO7TgM8A/iUPVdUxjfECXsJTMBhde84q7MaovwU\u003d",
     "StringUtils",
