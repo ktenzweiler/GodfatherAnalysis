@@ -5762,6 +5762,47 @@
       "com",
       "Source code",
       "app.apk"
+    ],
+    [
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "xml",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "layout",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "drawable",
+      "res",
+      "Resources",
+      "app.apk"
+    ],
+    [
+      "com.opthalmologic.salicylize.magnetotelephone",
+      "opthalmologic.salicylize",
+      "com",
+      "Source code",
+      "app.apk"
+    ],
+    [
+      "com.opthalmologic.salicylize.inspirited",
+      "opthalmologic.salicylize",
+      "com",
+      "Source code",
+      "app.apk"
     ]
   ],
   "codeData": {
@@ -10409,7 +10450,7 @@
           "attachType": "INSN",
           "index": 73
         },
-        "comment": "min, z.php",
+        "comment": "https://bavosa.icu/z.php",
         "style": "JAVADOC"
       },
       {
@@ -15696,10 +15737,10 @@
       "type": "class",
       "tabPath": "com.opthalmologic.salicylize.encyst",
       "subPath": "java",
-      "caret": 9881,
+      "caret": 7163,
       "view": {
-        "x": 8,
-        "y": 1927
+        "x": 0,
+        "y": 1477
       },
       "active": false,
       "pinned": false,
@@ -15738,12 +15779,12 @@
       "type": "class",
       "tabPath": "com.opthalmologic.salicylize.cylindricality",
       "subPath": "java",
-      "caret": 86080,
+      "caret": 84703,
       "view": {
-        "x": 0,
-        "y": 22464
+        "x": 2,
+        "y": 22044
       },
-      "active": true,
+      "active": false,
       "pinned": false,
       "bookmarked": false,
       "hidden": false
@@ -15752,12 +15793,12 @@
       "type": "class",
       "tabPath": "com.opthalmologic.salicylize.superfunctional",
       "subPath": "java",
-      "caret": 2064,
+      "caret": 3413,
       "view": {
-        "x": 14,
-        "y": 715
+        "x": 22,
+        "y": 439
       },
-      "active": false,
+      "active": true,
       "pinned": false,
       "bookmarked": false,
       "hidden": false
@@ -15775,11 +15816,29 @@
       "pinned": false,
       "bookmarked": false,
       "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.opthalmologic.salicylize.idololater",
+      "subPath": "java",
+      "caret": 384,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
     }
   ],
   "cacheDir": "/Users/mango_burrito/Library/Caches/io.github.skylot.jadx/projects/app-dfcd80826a46fef745816fbb075ebacc",
   "enableLiveReload": false,
   "searchHistory": [
+    "php",
+    "z.php",
+    ".php",
+    "min",
     "procheck",
     "min\"",
     "ru]",
